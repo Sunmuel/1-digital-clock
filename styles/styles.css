@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(54, 43, 43);
+}
+
+#time {
+    font-family: Kablammo;
+    color: rgb(231, 219, 219);
+    text-align: center;
+    margin-top: 250px;
+    font-size: 150px;
+    margin-bottom: 0px;
+}
+
+#date {
+    font-family: Kablammo;
+    color: rgb(231, 219, 219);
+    text-align: center;
+    font-size: 50px;
+}
