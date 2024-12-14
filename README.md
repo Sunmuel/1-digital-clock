@@ -1,1 +1,1 @@
-A simple digital clock with nice looking fonts
+A simple digital clock with nice looking fonts!
